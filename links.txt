@@ -1,2 +1,4 @@
-Utilizar Quarto (para exportar como HTML)
-https://www.youtube.com/watch?v=0Rgvob7j0ro
+Creación de una app con Flask.
+
+https://learn.microsoft.com/es-es/visualstudio/ide/quickstart-python?view=vs-2022
+
