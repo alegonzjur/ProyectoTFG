@@ -1,0 +1,19 @@
+Gráfico de líneas por causa de muerte: Representa la evolución anual de las principales causas de muerte en cada país. Puedes comparar cómo han variado a lo largo del tiempo.
+
+Gráfico de barras apiladas: Muestra la contribución de diferentes causas de muerte en un año específico. Cada barra representa una causa, y las secciones apiladas dentro de la barra representan las subcausas.
+
+Mapa de calor (heatmap): Utiliza colores para visualizar la prevalencia de diferentes causas de muerte en diferentes países. Puedes mostrarlo año a año o como un promedio durante el período de 20 años.
+
+Gráfico de dispersión: Representa la relación entre dos variables, como la tasa de mortalidad por una causa específica frente a la esperanza de vida en un país determinado.
+
+Gráfico de área: Muestra la distribución de las causas de muerte a lo largo del tiempo. Puedes superponer varias áreas para comparar diferentes causas.
+
+Gráfico de torta (pie chart): Proporciona una visión general de las principales causas de muerte en un año específico o promediadas durante el período de 20 años.
+
+Gráfico de treemap: Divide un rectángulo en áreas proporcionales según la importancia de cada causa de muerte. Puedes usar colores para diferenciar las categorías.
+
+Gráfico de radar: Compara la mortalidad por diferentes causas en varios países. Cada eje representa una causa, y la distancia desde el centro muestra su impacto relativo.
+
+Gráfico de burbujas: Muestra la relación entre la tasa de mortalidad y otros factores, como el gasto en salud o el índice de desarrollo humano.
+
+Gráfico de Sankey: Visualiza el flujo de personas entre diferentes causas de muerte a lo largo del tiempo. Puedes ver cómo las causas se relacionan y cambian.
